@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/xml/preferences.xml"
+    }
+]

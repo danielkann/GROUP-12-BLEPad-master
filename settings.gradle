@@ -1,0 +1,6 @@
+include ':app', ':PdCore'
+include ':CircleOfFifths'
+include ':PdTest'
+include ':ScenePlayer'
+include ':Voice-O-Rama'
+

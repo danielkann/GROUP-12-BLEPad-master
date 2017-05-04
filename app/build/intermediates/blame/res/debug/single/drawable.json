@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/drawable/din5.png",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/drawable/din5.png"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/drawable/din5.png",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/drawable/din5.png"
+    }
+]

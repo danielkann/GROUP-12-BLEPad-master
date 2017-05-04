@@ -1,0 +1,150 @@
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.testble.MainActivity" >
+
+
+    <TextView
+        android:text="red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/xText"
+        android:layout_below="@+id/onOffSwitch"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="19dp"
+        android:layout_toStartOf="@+id/continuousButton"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="X Value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AccelXValue"
+        android:layout_alignTop="@+id/xText"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp"
+        android:layout_alignEnd="@+id/xText" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/BPMText"
+        android:text="120"
+        android:layout_below="@+id/sendBPM"
+        android:layout_alignStart="@+id/sendBPM"
+        android:layout_alignEnd="@+id/sendBPM" />
+
+    <TextView
+        android:text="green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_alignBaseline="@+id/xText"
+        android:layout_alignBottom="@+id/xText"
+        android:layout_alignStart="@+id/bpminfo"
+        android:layout_alignEnd="@+id/bpminfo"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/AccelYValue"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/textView3"
+        android:layout_toEndOf="@+id/allButton"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="Send BPM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendBPM"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Y Value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AccelYValue"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_alignEnd="@+id/textView2" />
+
+    <TextView
+        android:text="Z Value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AccelZValue"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:text="max. 240 BPM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BPMText"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bpminfo" />
+
+    <TextView
+        android:text="Display Mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bpminfo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="59dp"
+        android:id="@+id/textView4"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+    <Button
+        android:text="all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/allButton"
+        android:layout_below="@+id/textView4"
+        android:layout_alignEnd="@+id/textView6" />
+
+    <TextView
+        android:text="click to chance display mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/continuousButton"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="continuous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/continuousButton"
+        android:layout_below="@+id/textView4"
+        android:layout_alignStart="@+id/textView6" />
+
+    <Switch
+        android:text="On/Off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/onOffSwitch"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Switch
+        android:text="Strobe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/AccelYValue"
+        android:layout_alignStart="@+id/onOffSwitch"
+        android:layout_marginTop="17dp"
+        android:id="@+id/strobeOnOff" />
+
+</RelativeLayout >

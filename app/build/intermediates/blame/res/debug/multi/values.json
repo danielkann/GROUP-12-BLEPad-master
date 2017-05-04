@@ -1,0 +1,2024 @@
+[
+    {
+        "outputFile": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 16,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 16,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endLine": 11,
+                    "endColumn": 16,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 11,
+                        "endColumn": 16,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 19,
+                        "endColumn": 16,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endLine": 27,
+                    "endColumn": 16,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endLine": 45,
+                    "endColumn": 16,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 45,
+                        "endColumn": 16,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 57,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 55,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 48,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 48,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 66,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 66,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 47,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 47,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 53,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 53,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 82,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 82,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 47,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 47,
+                        "endOffset": 1329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 44,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 44,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 64,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 64,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endColumn": 46,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 46,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endColumn": 48,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 48,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 54,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 54,
+                        "endOffset": 1651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endColumn": 42,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1656,
+                        "endColumn": 42,
+                        "endOffset": 1694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 42,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1699,
+                        "endColumn": 42,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 43,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 43,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 57,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 62,
+                    "endOffset": 2050
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 62,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2055,
+                    "endColumn": 64,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 64,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2120,
+                    "endColumn": 54,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 54,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 58,
+                    "endOffset": 2229
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 58,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2234,
+                    "endColumn": 72,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 72,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endColumn": 74,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 74,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 68,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1470,
+                        "endColumn": 68,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 60,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 60,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 64,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 64,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2577,
+                    "endColumn": 66,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 66,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 56,
+                    "endOffset": 2696
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 56,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2701,
+                    "endColumn": 71,
+                    "endOffset": 2768
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 71,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2773,
+                    "endColumn": 48,
+                    "endOffset": 2817
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 48,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2822,
+                    "endColumn": 89,
+                    "endOffset": 2907
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 89,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2912,
+                    "endColumn": 83,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 83,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 89,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 89,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 91,
+                    "endOffset": 3173
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 91,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3178,
+                    "endColumn": 73,
+                    "endOffset": 3247
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 73,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3252,
+                    "endColumn": 81,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 81,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 79,
+                    "endOffset": 3409
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 79,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3414,
+                    "endColumn": 77,
+                    "endOffset": 3487
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 77,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3492,
+                    "endColumn": 79,
+                    "endOffset": 3567
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 79,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3572,
+                    "endColumn": 73,
+                    "endOffset": 3641
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 73,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3646,
+                    "endColumn": 57,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endColumn": 57,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 59,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 59,
+                        "endOffset": 1522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 43,
+                    "endOffset": 3803
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 43,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3808,
+                    "endLine": 95,
+                    "endColumn": 12,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 4254
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4259,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 4368
+                },
+                "from": {
+                    "file": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 1898
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 16,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 16,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endLine": 11,
+                    "endColumn": 16,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 11,
+                        "endColumn": 16,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 19,
+                        "endColumn": 16,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endLine": 27,
+                    "endColumn": 16,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endLine": 45,
+                    "endColumn": 16,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 45,
+                        "endColumn": 16,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 57,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 55,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 48,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 48,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 66,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 66,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 47,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 47,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 53,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 53,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 82,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 82,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 47,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 47,
+                        "endOffset": 1329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 44,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 44,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 64,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 64,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endColumn": 46,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 46,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endColumn": 48,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 48,
+                        "endOffset": 1596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 54,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 54,
+                        "endOffset": 1651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endColumn": 42,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1656,
+                        "endColumn": 42,
+                        "endOffset": 1694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 42,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1699,
+                        "endColumn": 42,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 43,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 43,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 57,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 62,
+                    "endOffset": 2050
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 62,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2055,
+                    "endColumn": 64,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 64,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2120,
+                    "endColumn": 54,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 54,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 58,
+                    "endOffset": 2229
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 58,
+                        "endOffset": 1317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2234,
+                    "endColumn": 72,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 72,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endColumn": 74,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 74,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 68,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1470,
+                        "endColumn": 68,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 60,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 60,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 64,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 64,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2577,
+                    "endColumn": 66,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 66,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 56,
+                    "endOffset": 2696
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 56,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2701,
+                    "endColumn": 71,
+                    "endOffset": 2768
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 71,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2773,
+                    "endColumn": 48,
+                    "endOffset": 2817
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 48,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2822,
+                    "endColumn": 89,
+                    "endOffset": 2907
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 89,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2912,
+                    "endColumn": 83,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 83,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 89,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 89,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 91,
+                    "endOffset": 3173
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 91,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3178,
+                    "endColumn": 73,
+                    "endOffset": 3247
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 73,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3252,
+                    "endColumn": 81,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 81,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 79,
+                    "endOffset": 3409
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 79,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3414,
+                    "endColumn": 77,
+                    "endOffset": 3487
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 77,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3492,
+                    "endColumn": 79,
+                    "endOffset": 3567
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 79,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3572,
+                    "endColumn": 73,
+                    "endOffset": 3641
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 73,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3646,
+                    "endColumn": 57,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endColumn": 57,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 59,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 59,
+                        "endOffset": 1522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 43,
+                    "endOffset": 3803
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 43,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3808,
+                    "endLine": 95,
+                    "endColumn": 12,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 4254
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4259,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 4368
+                },
+                "from": {
+                    "file": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 1898
+                    }
+                }
+            }
+        ]
+    }
+]

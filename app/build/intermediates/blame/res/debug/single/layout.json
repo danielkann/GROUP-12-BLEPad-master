@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/list.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/layout/list.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/bluetooth_control.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/layout/bluetooth_control.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/list.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/layout/list.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Volumes/Local Data/GROUP 12-BLEPad-master/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/build/intermediates/res/merged/debug/layout/bluetooth_control.xml",
+        "source": "/Volumes/TOSHBIA EXT/GROUP 12-BLEPad-master/app/src/main/res/layout/bluetooth_control.xml"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9c1d3e02e698566ce9ba7de57bf85e54905ec458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_7321aa102f4a30945e2b19b4769fb5ca13521054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_d6a07409c79ddf2c6257104deb2ac5aa643dcd44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3e1fd8514bc55d3c935e24e7fe26976d763799b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9002e146a9ac6a8884ae2a54eba2464abdfebcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_043f54a2e4da1fa565115928005965f5a2d85d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_222667fd7b38adb93af1783d9d7ef6a74f0e321e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_26a9ba6f944013516a48505ba25083527597ed46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_e4246331562810b73920fc04535578462c4d89ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4d4faf9ace10b8b1f719b5138cc805bd8c0831b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cf05822bc7b937582459e2ebaa294ecedd5d2a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2deeb21066c2984bc55a1177f9d01db68101f5ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Volumes/Local Data/GROUP 12-BLEPad-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_0e0b1353cea2bde035e5921b5b126bd3a07c2449.jar" />
+    </item>
+
+</items>
